@@ -4,9 +4,9 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Đặng Thế Vinh
+- Mã học viên: 2A202602587
+- Nhóm: 
 - Candidate problem nhóm chọn:
 
 ---
