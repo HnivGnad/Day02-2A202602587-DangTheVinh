@@ -19,23 +19,31 @@
 
 ## Phase 1 — Scan 5+ problems (tối thiểu 5, khuyến khích 8-10)
 
-| # | Lăng kính          | Problem quan sát được                                         | Ai chịu ảnh hưởng?                                   | Dấu hiệu thật (số + bằng chứng)                                                                                                                             |
-| - | ------------------ | ------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | Lặp lại            | **Quên deadline bài tập và lịch kiểm tra**                    | Sinh viên/học viên                                   | Trong **4 tuần gần nhất**, có khoảng **3 lần** chỉ nhớ bài khi còn dưới 24 giờ và **2 lần** phải hỏi lại deadline trong nhóm/chat.                          |
-| 2 | AI có thể tốt hơn  | **Mất thời gian tạo câu hỏi để tự ôn bài**                    | Sinh viên/học viên                                   | Bấm giờ **3 lần** tạo bộ câu hỏi: **18 / 22 / 20 phút**; trung bình tạo **10 câu/chương** và thực hiện khoảng **2 lần/tuần**.                               |
-| 3 | Pain từ người khác | **Nhân viên mới thường hỏi lặp lại các câu hỏi nội bộ**       | Nhân viên mới và người hướng dẫn/mentor/HR           | Trong **1 tuần**, ghi nhận khoảng **18 câu hỏi**, trong đó **7 câu** là câu đã từng được hỏi; có khoảng **3 người** phải dành thời gian trả lời lại.        |
-| 4 | Tốn thời gian      | **Mất thời gian đọc tài liệu dài để tìm thông tin cần thiết** | Sinh viên, nhân viên mới, nhân viên văn phòng        | Bấm giờ **3 tài liệu** dài **12 / 18 / 15 trang**; mất **14 / 21 / 17 phút** để tìm đúng thông tin cần dùng.                                                |
-| 5 | Lặp lại            | **Mất thời gian tổng hợp báo cáo tiến độ từ nhiều người**     | Nhóm trưởng, team lead, PM, người phụ trách tổng hợp | Mỗi lần phải thu thập update từ **5 người**, mất khoảng **28 phút/lần**, thực hiện **1 lần/tuần**; trung bình có **2 lần** phải hỏi lại vì thiếu thông tin. |
+| #  | Lăng kính          | Problem quan sát được                                                                                                                          | Ai chịu ảnh hưởng?                                                         | Dấu hiệu thật (số + bằng chứng)                                                                                                                                                                                                                                        |
+| -- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Lặp lại            | **Quên deadline bài tập và lịch kiểm tra**                                                                                                     | Sinh viên/học viên                                                         | Trong **4 tuần gần nhất**, có khoảng **3 lần** chỉ nhớ bài khi còn dưới 24 giờ và **2 lần** phải hỏi lại deadline trong nhóm/chat.                                                                                                                                     |
+| 2  | AI có thể tốt hơn  | **Mất thời gian tạo câu hỏi để tự ôn bài**                                                                                                     | Sinh viên/học viên                                                         | Bấm giờ **3 lần** tạo bộ câu hỏi: **18 / 22 / 20 phút**; trung bình tạo **10 câu/chương** và thực hiện khoảng **2 lần/tuần**.                                                                                                                                          |
+| 3  | Pain từ người khác | **Nhân viên mới thường hỏi lặp lại các câu hỏi nội bộ**                                                                                        | Nhân viên mới và người hướng dẫn/mentor/HR                                 | Trong **1 tuần**, ghi nhận khoảng **18 câu hỏi**, trong đó **7 câu** là câu đã từng được hỏi; có khoảng **3 người** phải dành thời gian trả lời lại.                                                                                                                   |
+| 4  | Tốn thời gian      | **Mất thời gian đọc tài liệu dài để tìm thông tin cần thiết**                                                                                  | Sinh viên, nhân viên mới, nhân viên văn phòng                              | Bấm giờ **3 tài liệu** dài **12 / 18 / 15 trang**; mất **14 / 21 / 17 phút** để tìm đúng thông tin cần dùng.                                                                                                                                                           |
+| 5  | Lặp lại            | **Mất thời gian tổng hợp báo cáo tiến độ từ nhiều người**                                                                                      | Nhóm trưởng, team lead, PM, người phụ trách tổng hợp                       | Mỗi lần phải thu thập update từ **5 người**, mất khoảng **28 phút/lần**, thực hiện **1 lần/tuần**; trung bình có **2 lần** phải hỏi lại vì thiếu thông tin.                                                                                                            |
+| 6  | AI có thể tốt hơn  | **Căng tin khó dự đoán món nào sẽ bán nhiều, dẫn đến có món hết sớm nhưng có món lại dư và phải bỏ đi**                                        | Nhân viên căng tin, người quản lý căng tin và học sinh/sinh viên mua đồ ăn | Trong một ngày có thể phục vụ **hàng trăm suất ăn**, nhưng nhu cầu thay đổi theo thứ/ngày học, thời tiết, lịch thi hoặc sự kiện. Có thể đo trong **10 ngày**: số suất chuẩn bị, số suất bán hết sớm và số suất còn dư cuối ngày.                                       |
+| 7  | Pain từ người khác | **Xe đưa đón học sinh có thể đến sớm hoặc muộn nhưng phụ huynh không biết chính xác xe đang ở đâu và khi nào sẽ tới điểm đón**                 | Học sinh, phụ huynh, tài xế và nhà trường                                  | Một tuyến có thể có **10–20 điểm đón**; chỉ cần lệch **5–15 phút** cũng khiến phụ huynh phải chờ hoặc gọi hỏi. Có thể theo dõi **10 chuyến** để đo sai lệch giữa giờ dự kiến và giờ đến thực tế, cùng số cuộc gọi/tin nhắn hỏi vị trí xe.                              |
+| 8  | AI có thể tốt hơn  | **Giáo viên khó phát hiện sớm học sinh đang dần mất kết nối với lớp học khi các dấu hiệu nằm rải rác ở điểm danh, bài nộp và mức độ tham gia** | Giáo viên, cố vấn học tập và học sinh                                      | Có thể theo dõi trong **4 tuần** các dấu hiệu như số buổi nghỉ, số bài nộp trễ/không nộp và mức độ tham gia. Ví dụ một học sinh có **3 buổi nghỉ**, **2 bài nộp muộn** và giảm tham gia trong vài tuần nhưng từng dấu hiệu riêng lẻ có thể chưa đủ để giáo viên chú ý. |                                              |
+
+> Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 ### AI đã dùng ở Phase 1 (nếu có)
 
 * **Prompt đã hỏi:**
 
 ```text
-Hãy phản biện 5 problems theo các tiêu chí:
+Hãy phản biện các problems theo các tiêu chí:
 actor có cụ thể không, workflow có vẽ được không,
 bottleneck có rõ không, impact có đo được không,
 và AI có thực sự phù hợp hay chỉ cần process/rule đơn giản.
+
+Ưu tiên các vấn đề thực tế trong học tập, trường học và công việc,
+có dữ liệu đầu vào rõ và có thể đo hiệu quả trước/sau.
 
 Không đề xuất AI assistant toàn năng.
 ```
@@ -45,13 +53,18 @@ Không đề xuất AI assistant toàn năng.
   * Nhân viên mới hỏi lặp lại câu hỏi nội bộ có pain cho cả người mới và mentor.
   * Tổng hợp báo cáo tiến độ là workflow lặp lại, có nhiều bước thủ công.
   * Quên deadline có impact trực tiếp đến việc học và có thể đo bằng số lần gần trễ/nộp muộn.
-  * AI nên hỗ trợ phát hiện, tổng hợp hoặc gợi ý; không nên tự quyết định thay người dùng.
+  * Dự báo nhu cầu căng tin có thể dùng dữ liệu lịch sử kết hợp lịch học, lịch thi và điều kiện theo ngày.
+  * Dự đoán ETA xe đưa đón có thể dùng vị trí hiện tại, lịch sử tuyến và tình hình giao thông.
+  * Phát hiện sớm học sinh mất kết nối có thể dựa trên thay đổi của nhiều tín hiệu thay vì chỉ nhìn một chỉ số.
+  * AI nên hỗ trợ phát hiện, tổng hợp hoặc gợi ý; không nên tự đưa ra quyết định quan trọng thay con người.
 
 * **Ý bỏ vì không phải pain thật:**
 
   * Xây một AI assistant làm mọi việc.
   * AI tự quản lý toàn bộ công việc/học tập.
-  * AI tự đưa ra quyết định quan trọng mà không cần người dùng kiểm tra.
+  * AI tự quyết định học sinh nào “có vấn đề” hoặc tự động đưa ra hình thức xử lý.
+  * AI tự quyết định lượng thực phẩm cần mua mà không có người quản lý kiểm tra.
+  * AI tự xử lý thay đổi tuyến xe mà không có xác nhận từ người vận hành.
 
 ### Self-check Phase 1
 
@@ -296,23 +309,37 @@ Sinh viên/học viên học nhiều môn hoặc tham gia nhiều khóa học c�
 
 Thời điểm / bối cảnh:
 
-Trong tuần học, khi deadline được thông báo qua lớp học,
-group chat, LMS, tài liệu hoặc tin nhắn.
+Trong tuần học, khi deadline được thông báo qua LMS, email,
+group chat, giảng viên, tài liệu môn học hoặc tin nhắn.
 
 Current workflow 3-7 bước:
 
-1. Nhận thông báo bài tập/lịch kiểm tra.
-2. Đọc thông tin deadline.
-3. Tự ghi nhớ hoặc ghi lại vào note/calendar.
-4. Tiếp tục nhận thêm nhiều thông báo khác.
-5. Tự kiểm tra lại lịch khi nhớ ra.
-6. Phát hiện deadline đã gần.
-7. Gấp rút hoàn thành bài/ôn tập.
+1. Nhận thông báo về bài tập hoặc lịch kiểm tra từ nhiều nguồn
+   như LMS, email, group chat, giảng viên hoặc tài liệu môn học.
+
+2. Đọc từng thông báo và tự xác định thông tin quan trọng
+   như tên bài, môn học, deadline và yêu cầu cần hoàn thành.
+
+3. Đối chiếu các thông báo từ nhiều nguồn để xác định
+   đâu là thông tin mới nhất, đặc biệt khi deadline thay đổi
+   hoặc được nhắc lại.
+
+4. Tự ghi deadline vào note, calendar, todo app
+   hoặc cố gắng ghi nhớ.
+
+5. Khi có thông báo mới, phải tự cập nhật lại deadline
+   đã ghi trước đó.
+
+6. Định kỳ tự mở lại calendar, LMS hoặc group chat
+   để kiểm tra xem có deadline nào mới hoặc bị bỏ sót.
+
+7. Nếu không kiểm tra kịp, chỉ phát hiện bài tập hoặc lịch kiểm tra
+   khi đã gần đến hạn và phải gấp rút hoàn thành/ôn tập.
 
 Bottleneck:
 
-Bước 3-5: người học phải tự thu thập,
-ghi lại và thường xuyên nhớ kiểm tra deadline từ nhiều nguồn.
+Bước 2-6: người học phải tự thu thập, đối chiếu,
+ghi lại và cập nhật deadline từ nhiều nguồn khác nhau.
 
 Impact:
 
@@ -323,8 +350,8 @@ Có khoảng 2 lần phải hỏi lại deadline trong nhóm/chat.
 
 Success metric:
 
-- Giảm số lần chỉ phát hiện deadline khi còn <24 giờ từ 3 lần/tháng
-  xuống tối đa 1 lần/tháng.
+- Giảm số lần chỉ phát hiện deadline khi còn <24 giờ
+  từ 3 lần/tháng xuống tối đa 1 lần/tháng.
 - 100% deadline quan trọng được ghi nhận sau khi phát hiện.
 - Nhắc trước deadline ít nhất 2 mốc phù hợp.
 - Không tạo reminder sai ngày/giờ.
@@ -358,28 +385,27 @@ Quick gut:
 **Draft workflow Card #3:**
 
 ```text
-CURRENT STATE — khoảng 6 phút/lần cập nhật
+CURRENT STATE — khoảng 8 phút/lần tổng hợp
 
-[1 Nhận thông báo: 1']
-→ [2 Đọc + tìm deadline: 1']
-→ [3 Ghi note/calendar: 2']  <-- bottleneck
-→ [4 Sau đó tự kiểm tra lại: 2']
+[1 Đọc thông báo từ nhiều nguồn: 2']
+→ [2 Tìm thông tin deadline: 2']
+→ [3 Đối chiếu nguồn: 2']  <-- bottleneck
+→ [4 Ghi/cập nhật calendar: 1']
+→ [5 Kiểm tra lại: 1']
 
 
 FUTURE STATE — khoảng 2 phút
 
-[1 Nhận thông báo]
-→ [2 AI extract deadline: 15s]
-→ [3 AI đề xuất reminder: 15s]
+[1 AI đọc + extract deadline: 20s]
+→ [2 AI đối chiếu/phát hiện thay đổi: 20s]
+→ [3 AI đề xuất reminder: 20s]
 → [4 User review + confirm: 1']  <-- human boundary
-→ [5 Lưu calendar/reminder: 30s]
 
 
 Fallback:
 
-Nếu thông báo không ghi rõ ngày/giờ
-hoặc có nhiều deadline khác nhau,
-AI không tự tạo lịch mà yêu cầu người dùng xác nhận.
+Nếu deadline không rõ hoặc hai nguồn ghi thông tin khác nhau,
+AI không tự chọn mà yêu cầu người dùng xác nhận.
 ```
 
 File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
